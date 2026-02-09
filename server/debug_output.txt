@@ -1,0 +1,4 @@
+Loading env from: D:\product-management\server\.env.test
+URI found: Yes
+Attempting to connect...
+ERROR: Connection failed!
